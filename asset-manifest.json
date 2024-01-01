@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redu/static/css/main.e6c13ad2.css",
+    "main.js": "/redu/static/js/main.2aba2f32.js",
+    "static/js/787.1d8e7702.chunk.js": "/redu/static/js/787.1d8e7702.chunk.js",
+    "static/media/redux.cjs": "/redu/static/media/redux.f6cd7db3b857b93d3bca.cjs",
+    "index.html": "/redu/index.html",
+    "main.e6c13ad2.css.map": "/redu/static/css/main.e6c13ad2.css.map",
+    "main.2aba2f32.js.map": "/redu/static/js/main.2aba2f32.js.map",
+    "787.1d8e7702.chunk.js.map": "/redu/static/js/787.1d8e7702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2aba2f32.js"
+  ]
+}
